@@ -1,0 +1,28 @@
+{
+  "name": "com.preliy.slider-crank",
+  "displayName": "Slider Crank",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "unityRelease": "5f1",
+  "description": "Simplified Slider Crank mechanism in Unity",
+  "documentationUrl": "https://preliy.github.io/SliderCrank",
+  "changelogUrl": "https://github.com/Preliy/SliderCrank/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Preliy/SliderCrank/blob/master/LICENSE.md",
+  "author": {
+    "name": "Preliy",
+    "email": "vikt.gaponenko@gmail.com",
+    "url": "https://github.com/Preliy/SliderCrank"
+  },
+  "keywords": [
+    "Industrial",
+    "Engineering",
+    "Digital Twin"
+  ],
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Basic demo scene",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
